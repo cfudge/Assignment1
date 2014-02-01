@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+		android:id="@+id/delete_menu_option"
+		android:title="@string/delete_menu_item"
+		>
+    </item>
+    
+    <item
+		android:id="@+id/rename_counter_option"
+		android:title="@string/rename_menu_item"
+		>
+    </item>
+    
+    
+    <item
+		android:id="@+id/reset_option"
+		android:title="@string/reset_menu_item"
+		>
+    </item>
+    
+    <item
+		android:id="@+id/view_stats_option"
+		android:title="@string/stats_menu_item"
+		>
+    </item>
+   
+    
+</menu>
